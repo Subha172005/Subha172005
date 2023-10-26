@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Subha172005
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning java 
+- 💞️ I’m looking to collaborate on ...Microsoft 
+- 📫 How to reach me ... subha17.2005@gmail.com
